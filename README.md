@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Punit Jain,
+
 Highly accomplished and results-oriented Blockchain Developer with over 5 years of in-depth experience designing, developing, and deploying complex decentralized applications and infrastructure. Proven expertise in GoLang and Solidity, with a strong focus on Tendermint-based architectures, EVM integrations, cross-chain communication, and robust security implementations. Adept at leveraging cutting-edge technologies like EigenLayer, OP Stack, libp2p, and advanced proving mechanisms to build scalable, secure, and interoperable blockchain solutions.
 
 Seeking a challenging and impactful role in a forward-thinking organization where advanced technical skills and a deep understanding of blockchain principles are critical for driving innovation and achieving strategic objectives.
